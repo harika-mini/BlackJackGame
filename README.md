@@ -2,26 +2,26 @@
 This project is a visual representation of the Black Jack game.
 Welcome to the Blackjack Game project! This project is a simple implementation of the classic casino card game, Blackjack, using HTML, CSS, and JavaScript.
 
-##How to Play
+## How to Play
 In this version of Blackjack, players are allowed to take any number of cards until they reach a total value of 21 or decide to stand. However, if the total value of their hand exceeds 21, they bust and lose the game.
 
 The objective of the game is to get as close to 21 as possible without going over. If a player's total hand value equals 21 with just two cards (an Ace and a 10-value card), they achieve Blackjack and win instantly.
 
-##Getting Started
+## Getting Started
 To play the game locally, follow these steps:
 
 Clone this repository to your local machine.
 Open the index.html file in your preferred web browser.
 Start playing Blackjack!
-##Features
+## Features
 Responsive design: Enjoy the game on any device, whether it's a desktop, tablet, or smartphone.
 Simple and intuitive user interface: Easy-to-understand controls for hitting, standing, and restarting the game.
 Interactive gameplay: Watch as cards are dealt and totals are updated in real-time.
 Instant feedback: Receive alerts for winning, losing, or busting.
-##Screenshots
+## Screenshots
 
-##Contributing
+## Contributing
 If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
