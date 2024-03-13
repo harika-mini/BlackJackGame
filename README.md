@@ -20,6 +20,14 @@ Interactive gameplay: Watch as cards are dealt and totals are updated in real-ti
 Instant feedback: Receive alerts for winning, losing, or busting.
 ## Screenshots
 
+![image](https://github.com/harika-mini/BlackJackGame/assets/125467348/fa775caf-15b8-4dde-8cd2-28accb17f983)
+
+![image](https://github.com/harika-mini/BlackJackGame/assets/125467348/e4836bf8-6dd1-4e31-b7ae-38d48cd34f55)
+
+![image](https://github.com/harika-mini/BlackJackGame/assets/125467348/35da717d-b4b4-4c23-a8cb-4e84e505655f)
+
+
+
 ## Contributing
 If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
 
