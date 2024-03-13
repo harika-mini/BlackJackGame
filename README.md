@@ -31,5 +31,3 @@ Instant feedback: Receive alerts for winning, losing, or busting.
 ## Contributing
 If you have any suggestions, bug reports, or feature requests, feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
