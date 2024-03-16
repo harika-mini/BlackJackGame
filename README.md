@@ -4,7 +4,7 @@ Welcome to the Blackjack Game project! This project is a simple implementation o
 
 ## How to Play
 In this version of Blackjack, players are allowed to take any number of cards until they reach a total value of 21 or decide to stand. However, if the total value of their hand exceeds 21, they bust and lose the game.
-
+ 
 The objective of the game is to get as close to 21 as possible without going over. If a player's total hand value equals 21 with just two cards (an Ace and a 10-value card), they achieve Blackjack and win instantly.
 
 ## Getting Started
